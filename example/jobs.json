@@ -1,0 +1,1156 @@
+[
+  {
+    "occupation": "Food processing, wood working, garment and other craft and related trades workers",
+    "permanent": "Permanent contract",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "clean equipment",
+      "prepare orders",
+      "operate package processing equipment"
+    ]
+  },
+  {
+    "occupation": "Sales workers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "report test findings",
+      "provide customized upholstery"
+    ]
+  },
+  {
+    "occupation": "Hospitality, retail and other services managers",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "use IT tools",
+      "lead others",
+      "ensure client orientation"
+    ]
+  },
+  {
+    "occupation": "Science and engineering associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "fire protection engineering",
+      "manage maintenance operations",
+      "repair industrial equipment"
+    ]
+  },
+  {
+    "occupation": "Drivers and mobile plant operators",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "manage truck drivers",
+      "guide cranes",
+      "install signal repeaters"
+    ]
+  },
+  {
+    "occupation": "Science and engineering professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "apply operations for an ITIL-based environment",
+      "business ICT systems"
+    ]
+  },
+  {
+    "occupation": "Business and administration professionals",
+    "permanent": "Permanent contract",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "process payments",
+      "implement marketing strategies"
+    ]
+  },
+  {
+    "occupation": "Production and specialised services managers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 7",
+    "min_years_exp": "2 - 3 years",
+    "skills": [
+      "implement traceability systems",
+      "liaise with managers",
+      "coordinate the administration of a sports organisation"
+    ]
+  },
+  {
+    "occupation": "Metal, machinery and related trades workers",
+    "permanent": "Permanent contract",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "tend computer numerical control lathe machine",
+      "pneumatics"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "business ICT systems",
+      "JavaScript",
+      "ICT project management methodologies"
+    ]
+  },
+  {
+    "occupation": "Sales workers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "deliver a sales pitch",
+      "provide high quality customer service",
+      "telecommunications engineering"
+    ]
+  },
+  {
+    "occupation": "Handicraft and printing workers",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "recreation activities",
+      "operate flexographic printing machine",
+      "clinical reports"
+    ]
+  },
+  {
+    "occupation": "Drivers and mobile plant operators",
+    "permanent": "Other",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "operate forklift",
+      "perform services in a flexible manner",
+      "computer programming"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Not specified",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "PHP",
+      "Java (computer programming)"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "2 - 3 years",
+    "skills": [
+      "Angular",
+      "web programming",
+      "create landscape designs"
+    ]
+  },
+  {
+    "occupation": "Administrative and commercial managers",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "teamwork principles",
+      "manage needs for stationery items"
+    ]
+  },
+  {
+    "occupation": "Labourers in mining, construction, manufacturing and transport",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "prepare orders",
+      "livestock feeding",
+      "pick orders for dispatching"
+    ]
+  },
+  {
+    "occupation": "Administrative and commercial managers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "3 - 5 years",
+    "skills": [
+      "collaborate with engineers",
+      "plan construction of houses"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "perform customer management",
+      "data mining"
+    ]
+  },
+  {
+    "occupation": "Customer services clerks",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "show empathy",
+      "management skills",
+      "automotive engineering"
+    ]
+  },
+  {
+    "occupation": "Sales workers",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "develop campaigns",
+      "negotiate price for antiques",
+      "provide high quality customer service"
+    ]
+  },
+  {
+    "occupation": "Health professionals",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "nutrition",
+      "prevent work accidents",
+      "health and welfare"
+    ]
+  },
+  {
+    "occupation": "Production and specialised services managers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "warehouse operations",
+      "computer programming"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "business and administration not further defined",
+      "telecommunications engineering"
+    ]
+  },
+  {
+    "occupation": "Business and administration professionals",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "security services",
+      "business and administration",
+      "carry out interviews to select artistic team members"
+    ]
+  },
+  {
+    "occupation": "Business and administration professionals",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "support social service users with specific communication needs",
+      "wholesale and retail sales"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Other",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "answer incoming calls",
+      "create incident reports"
+    ]
+  },
+  {
+    "occupation": "Legal, social, cultural and related associate professionals",
+    "permanent": "Permanent contract",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "apply restoration techniques",
+      "maintain lithographic printing plates"
+    ]
+  },
+  {
+    "occupation": "Sales workers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "telemarketing",
+      "prepare orders",
+      "protect client interests"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Not specified",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "MySQL",
+      "data extraction, transformation and loading tools",
+      "mathematics"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Permanent contract",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "provide high quality customer service",
+      "arrange ordering of products for customers"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Permanent contract",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "manage commercial risks",
+      "promote healthy lifestyle"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "teamwork principles",
+      "plan marketing strategy",
+      "management and administration"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "wholesale and retail sales",
+      "issue sales invoices"
+    ]
+  },
+  {
+    "occupation": "Sales workers",
+    "permanent": "Permanent contract",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "wholesale and retail sales",
+      "manage purchasing cycle",
+      "sales strategies"
+    ]
+  },
+  {
+    "occupation": "Science and engineering associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "mechanics",
+      "business knowledge"
+    ]
+  },
+  {
+    "occupation": "Customer services clerks",
+    "permanent": "Not specified",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "process loyalty schemes",
+      "provide information to passengers"
+    ]
+  },
+  {
+    "occupation": "Sales workers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "management skills",
+      "operate cash register"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "SQL",
+      "implement data quality processes",
+      "Angular"
+    ]
+  },
+  {
+    "occupation": "Production and specialised services managers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "prepare visual data",
+      "project management",
+      "solve ICT system problems"
+    ]
+  },
+  {
+    "occupation": "Labourers in mining, construction, manufacturing and transport",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "prepare orders",
+      "manufacture of small metal parts",
+      "manage factory operations"
+    ]
+  },
+  {
+    "occupation": "Production and specialised services managers",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "quality assurance methodologies",
+      "negotiate tourism rates"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "advertise auction sales",
+      "customer service"
+    ]
+  },
+  {
+    "occupation": "Sales workers",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "electronic communication",
+      "handle rental overdues"
+    ]
+  },
+  {
+    "occupation": "Information and communications technicians",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "2 - 3 years",
+    "skills": [
+      "computer programming",
+      "distributed directory information services",
+      "evaluate cost of software products"
+    ]
+  },
+  {
+    "occupation": "Science and engineering associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "prevent work accidents",
+      "mechanics",
+      "repair industrial equipment"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Permanent contract",
+    "working_hours": "Part time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "teamwork principles",
+      "ICT system programming"
+    ]
+  },
+  {
+    "occupation": "Teaching professionals",
+    "permanent": "Fixed term contract",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "provide nursing care in community settings",
+      "biological and related sciences"
+    ]
+  },
+  {
+    "occupation": "Teaching professionals",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "work under supervision in care",
+      "web programming",
+      "supervise educational staff"
+    ]
+  },
+  {
+    "occupation": "Sales workers",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "business ICT systems",
+      "operate cash register",
+      "perform services in a flexible manner"
+    ]
+  },
+  {
+    "occupation": "Health professionals",
+    "permanent": "Not specified",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "orthodontics",
+      "investigate road accidents"
+    ]
+  },
+  {
+    "occupation": "Labourers in mining, construction, manufacturing and transport",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "pick orders for dispatching",
+      "perform services in a flexible manner",
+      "prepare orders"
+    ]
+  },
+  {
+    "occupation": "Business and administration professionals",
+    "permanent": "Other",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "2 - 3 years",
+    "skills": [
+      "lead others",
+      "manufacturing of doors from metal"
+    ]
+  },
+  {
+    "occupation": "Information and communications technicians",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "data mining",
+      "maintenance of printing machines"
+    ]
+  },
+  {
+    "occupation": "Sales workers",
+    "permanent": "Other",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "persuade clients with alternatives",
+      "handle cash flow",
+      "pack merchandise for gifts"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "prepare government funding dossiers",
+      "C#",
+      "Cisco"
+    ]
+  },
+  {
+    "occupation": "Administrative and commercial managers",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "plan maintenance activities",
+      "use presentation software",
+      "customer relationship management"
+    ]
+  },
+  {
+    "occupation": "Science and engineering associate professionals",
+    "permanent": "Other",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "hydraulics",
+      "maintain industrial equipment",
+      "tend lathe"
+    ]
+  },
+  {
+    "occupation": "Sales workers",
+    "permanent": "Not specified",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "business and administration",
+      "office software",
+      "organise information on availability of the team"
+    ]
+  },
+  {
+    "occupation": "Business and administration professionals",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "business loans",
+      "management skills",
+      "carry out interviews to select artistic team members"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "sales argumentation",
+      "market analysis"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "assess supplier risks",
+      "wholesale and retail sales",
+      "prepare pizza"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Other",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "database development tools",
+      "JavaScript"
+    ]
+  },
+  {
+    "occupation": "Health professionals",
+    "permanent": "Permanent contract",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "perform laboratory tests",
+      "nursing and midwifery"
+    ]
+  },
+  {
+    "occupation": "Metal, machinery and related trades workers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "negotiate with key stakeholders in the automotive retail sector",
+      "advise food industry",
+      "mechanics of motor vehicles"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "performing risk analysis and management",
+      "advising and consulting",
+      "styling hair and providing beauty treatments"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "process loyalty schemes",
+      "use word processing software"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "data mining",
+      "SQL Server",
+      "C#"
+    ]
+  },
+  {
+    "occupation": "Hospitality, retail and other services managers",
+    "permanent": "Permanent contract",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "align efforts towards business development",
+      "follow procedures to control substances hazardous to health",
+      "design customer experiences"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Other",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "Java (computer programming)",
+      "web programming",
+      "office software"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Not specified",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "security services",
+      "project management",
+      "legal compensation for victims of crime"
+    ]
+  },
+  {
+    "occupation": "Production and specialised services managers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "3 - 5 years",
+    "skills": [
+      "business ICT systems",
+      "manage administrative systems"
+    ]
+  },
+  {
+    "occupation": "Information and communications technology professionals",
+    "permanent": "Not specified",
+    "working_hours": "Part time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "PHP",
+      "JavaScript"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "canvassing methods",
+      "contact talent agents",
+      "accounting entries"
+    ]
+  },
+  {
+    "occupation": "Food processing, wood working, garment and other craft and related trades workers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "dressmaking",
+      "apply body paint",
+      "handle knives for meat processing activities"
+    ]
+  },
+  {
+    "occupation": "Metal, machinery and related trades workers",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "manage maintenance operations",
+      "manage administrative systems"
+    ]
+  },
+  {
+    "occupation": "Business and administration professionals",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "manage loan administration",
+      "management skills"
+    ]
+  },
+  {
+    "occupation": "Science and engineering professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "graphic design",
+      "renewable energy"
+    ]
+  },
+  {
+    "occupation": "Business and administration professionals",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "analyse issues",
+      "accounting"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 7",
+    "min_years_exp": "3 - 5 years",
+    "skills": [
+      "sales argumentation",
+      "monitor billing procedures"
+    ]
+  },
+  {
+    "occupation": "Electrical and electronic trades workers",
+    "permanent": "Not specified",
+    "working_hours": "Part time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "electrical equipment components",
+      "electricity",
+      "fossil-fuel power plant operations"
+    ]
+  },
+  {
+    "occupation": "Other clerical support workers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "carry out interviews to select artistic team members",
+      "negotiating and managing contracts and agreements",
+      "business ICT systems"
+    ]
+  },
+  {
+    "occupation": "Personal service workers",
+    "permanent": "Not specified",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "product data management",
+      "hotel operations"
+    ]
+  },
+  {
+    "occupation": "Legal, social and cultural professionals",
+    "permanent": "Not specified",
+    "working_hours": "Part time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "conclude business agreements",
+      "welfare",
+      "mechanics"
+    ]
+  },
+  {
+    "occupation": "Customer services clerks",
+    "permanent": "Not specified",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "use internet chat",
+      "types of boxes"
+    ]
+  },
+  {
+    "occupation": "Business and administration professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "wholesale and retail sales",
+      "monitor billing procedures"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "telemarketing",
+      "negotiate tourism rates"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "security services",
+      "supervise security at manned access gates"
+    ]
+  },
+  {
+    "occupation": "Electrical and electronic trades workers",
+    "permanent": "Permanent contract",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "authenticate documents",
+      "proxy servers",
+      "carry out improvised vehicle repairs"
+    ]
+  },
+  {
+    "occupation": "Science and engineering professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 6",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "building information modelling",
+      "digital marketing techniques",
+      "project management"
+    ]
+  },
+  {
+    "occupation": "Legal, social, cultural and related associate professionals",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "process commissioned instructions",
+      "establish collaborative relations",
+      "use cooking techniques"
+    ]
+  },
+  {
+    "occupation": "Business and administration associate professionals",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "provide high quality customer service",
+      "conclude business agreements"
+    ]
+  },
+  {
+    "occupation": "Personal service workers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "2 - 3 years",
+    "skills": [
+      "arrange special events",
+      "prepare films for printing plates",
+      "maintain tile flooring"
+    ]
+  },
+  {
+    "occupation": "Metal, machinery and related trades workers",
+    "permanent": "Not specified",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "joining parts using soldering, welding or brazing techniques",
+      "working with machinery and specialised equipment",
+      "canvassing methods"
+    ]
+  },
+  {
+    "occupation": "Legal, social, cultural and related associate professionals",
+    "permanent": "Other",
+    "working_hours": "Full time contract",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "use cooking techniques",
+      "assess risks and implications of a design",
+      "management skills"
+    ]
+  },
+  {
+    "occupation": "Food processing, wood working, garment and other craft and related trades workers",
+    "permanent": "Permanent contract",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "clean equipment",
+      "check methods"
+    ]
+  },
+  {
+    "occupation": "Customer services clerks",
+    "permanent": "Other",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "travel, tourism and leisure",
+      "process loyalty schemes",
+      "office software"
+    ]
+  },
+  {
+    "occupation": "Business and administration professionals",
+    "permanent": "Other",
+    "working_hours": "Not specified",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "Not specified",
+    "skills": [
+      "management skills",
+      "security services"
+    ]
+  },
+  {
+    "occupation": "Business and administration professionals",
+    "permanent": "Other",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "5 - 10 years",
+    "skills": [
+      "conducting studies, investigations and examinations",
+      "management skills",
+      "lead a team"
+    ]
+  },
+  {
+    "occupation": "Customer services clerks",
+    "permanent": "Other",
+    "working_hours": "Other",
+    "min_edu_eqf": "level 5 or less",
+    "min_years_exp": "1 - 2 years",
+    "skills": [
+      "assist in loan applications",
+      "business and administration",
+      "set sales goals"
+    ]
+  }
+]
