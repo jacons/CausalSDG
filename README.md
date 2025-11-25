@@ -51,9 +51,10 @@ Go to "example" folder and run the notebook `min_example.ipynb` to see a minimal
 # Citation
 If you use this code or our results in your research, please cite our paper as follows:
 ```
-@article{iommi2025,
+@article{iommi2025causal,
   title={Causal Synthetic Data Generation in Recruitment},
   author={Iommi, Andrea and Mastropietro, Antonio and Guidotti, Riccardo and Monreale, Anna and Ruggieri, Salvatore},
+  journal={arXiv preprint arXiv:2511.16204},
   year={2025}
 }
 ```
